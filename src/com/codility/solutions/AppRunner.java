@@ -1,5 +1,7 @@
 package com.codility.solutions;
 
+import com.codility.solutions.BinaryGap.BinaryGap;
+
 public class AppRunner {
 
     public static void main(String[] args) {
